@@ -27,7 +27,7 @@ const contacts = [
   { name: "LinkedIn", icon: <Linkedin />, link: "https://www.linkedin.com/in/jadeja007/", newTab: true },
   { name: "Email", icon: <Mail />, link: "mailto:mr.yuvrajsinhjadeja007@gmail.com" },
   { name: "Twitter", icon: <TwitterIcon />, link: "https://x.com/YUVRAJSINH26191", newTab: true },
-  { name: "Resume", icon: <FileText />, link: "/YUVRAJSINH_JADEJA1.pdf", download: true },
+  { name: "Resume", icon: <FileText />, link: "/YUVRAJSINH_JADEJA_RESUME.pdf", download: true },
 ];
 
 const ContactBar = () => {
