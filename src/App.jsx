@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import ContactBar from './components/ContactBar';
 import Home from './pages/Home';
 
+
 const App = () => {
   return (
     <div className="relative min-h-screen bg-white">
